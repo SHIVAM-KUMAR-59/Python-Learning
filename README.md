@@ -13,6 +13,7 @@ This repository contains all the Python codes and examples I have written while 
 ## Overview
 
 This repository contains Python programs demonstrating various programming concepts, including data structures, algorithms, OOP, and more. Each file focuses on specific concepts with practical examples, helping reinforce both foundational and advanced topics in Python for learners aiming to deepen their understanding of programming.
+I will be following Code With Harry's [Python Course](https://youtu.be/UrsmFxEIp5k?si=mJSRMs7rEdKXKuUy) to learn and implement the concepts.
 
 ## Concepts Covered 📚
 
