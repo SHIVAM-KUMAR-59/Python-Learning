@@ -21,6 +21,12 @@ The repository includes examples of:
 
 - Basic Syntax and Data Types
 - Strings
+- Lists and Tuples
+- Sets and Dictionaries
+- Conditional Expressions
+- Loops
+- Functions
+- File I/O
 
 ## Setup and Running the Code
 
